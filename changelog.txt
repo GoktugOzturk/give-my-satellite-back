@@ -1,0 +1,9 @@
+---------------------------------------------------------------------------------------------------
+Version: 1.0.0
+Date: 09. 03. 2026
+  Features:
+    - Re-added the satellite item that Space Age DLC removes.
+    - Re-added the satellite recipe with original vanilla ingredients.
+    - Satellite recipe is unlocked by researching Rocket Silo technology.
+  Info:
+    - Useful as a signal for blueprints and circuit networks.
