@@ -23,7 +23,7 @@ jobs:
         run: |
           FOLDER=${{ steps.info.outputs.folder }}
           mkdir "$FOLDER"
-          cp info.json data-final-fixes.lua "$FOLDER/"
+          cp info.json data-final-fixes.lua thumbnail.png "$FOLDER/"
           zip -r "${FOLDER}.zip" "$FOLDER"
 
       - name: Create or update release
