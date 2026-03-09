@@ -1,0 +1,12 @@
+{
+  "name": "give-my-satellite-back",
+  "version": "1.0.0",
+  "title": "Give My Satellite Back",
+  "author": "ElderAxe",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age"
+  ],
+  "description": "Re-enables the satellite item and recipe in Space Age. Useful as a signal for blueprints and circuit networks."
+}
