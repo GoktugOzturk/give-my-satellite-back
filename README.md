@@ -34,7 +34,7 @@ Unlocked by researching **Rocket Silo**:
 
 ## Requirements
 
-- Factorio >= 2.0
+- Factorio >= 2.1
 - Space Age DLC
 
 ## License
