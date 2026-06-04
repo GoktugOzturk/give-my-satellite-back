@@ -1,8 +1,9 @@
 {
   "name": "give-my-satellite-back",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "title": "Give My Satellite Back",
   "author": "ElderAxe",
+  "license": "MIT",
   "factorio_version": "2.1",
   "dependencies": [
     "base >= 2.1",
